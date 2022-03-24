@@ -1,22 +1,22 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Lagos"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Abuja"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "Ibadan"
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "Ekiti"
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Calabar"
   }
 ]

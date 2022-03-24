@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "idris",
+    "location": "Ibadan"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "location": "Lagos"
+  },
+  {
+    "id": 3,
+    "name": "Ayomid",
+    "location": "Abuja"
+  },
+  {
+    "id": 4,
+    "name": "Jide",
+    "location": "Calabar"
+  },
+  {
+    "id": 5,
+    "name": "Okun",
+    "location": "Lagos"
+  },
+  {
+    "id": 7,
+    "name": "Alex",
+    "location": "Calabar"
+  }
+]

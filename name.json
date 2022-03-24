@@ -1,22 +1,22 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Idris"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Emma"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "John"
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "Ayomid"
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Dapo"
   }
 ]
