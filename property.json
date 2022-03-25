@@ -1,0 +1,46 @@
+{
+  "properties": [
+    {
+      "id": 6,
+      "deleted": false,
+      "createdAt": 1647525009.853516,
+      "createdBy": "SYSTEM",
+      "description": "This is a Property",
+      "code": "AHD",
+      "name": "AbuDhabi Hotel Downtown",
+      "type": "PROPERTY"
+    },
+    {
+      "id": 7,
+      "deleted": false,
+      "createdAt": 1647525009.853516,
+      "createdBy": "SYSTEM",
+      "description": "This is a Property",
+      "code": "CHD",
+      "name": "Continental Hotel Downtown",
+      "type": "PROPERTY"
+    }
+  ],
+  "masters": [
+    {
+      "id": 5,
+      "deleted": false,
+      "createdAt": 1647525009.853516,
+      "createdBy": "SYSTEM",
+      "description": "This is a Property Master",
+      "code": "Chart Of Account",
+      "name": "Chart Of Account",
+      "type": "PROPERTY_MASTER"
+    },
+    {
+      "id": 6,
+      "deleted": false,
+      "createdAt": 1647525009.853516,
+      "createdBy": "SYSTEM",
+      "description": "This is a Property Master 3454",
+      "code": "Chart Of Account",
+      "name": "Chart Of Account",
+      "type": "PROPERTY_MASTER"
+    }
+  ]
+}
